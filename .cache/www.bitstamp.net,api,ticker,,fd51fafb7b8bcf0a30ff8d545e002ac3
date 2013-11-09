@@ -1,0 +1,15 @@
+status: 200
+expires: Sat, 09 Nov 2013 10:27:16 GMT
+set-cookie: incap_ses_32_99025=BSAFewmmOxfFqrNEbrBxAPUNflIAAAAA3O8mdJAwlqFq0+p4xJuTxA==; path=/; Domain=.bitstamp.net, visid_incap_99025=ViQc4M7QRLm6clQw/WS5IPUNflIAAAAAQUIPAAAAAACDEh2IxsxVz4uNSh0x6LwF; expires=Mon, 09 Nov 2015 07:38:51 GMT; path=/; Domain=.bitstamp.net
+content-language: en
+x-cdn: Incapsula
+server: Apache
+cache-control: max-age=15, public
+x-iinfo: 3-4606770-0 0CNY RT(1383992821187 411) q(0 -1 -1 -1) r(0 -1)
+content-type: application/json
+vary: Accept-Language
+last-modified: Sat, 09 Nov 2013 10:26:59 GMT
+date: Sat, 09 Nov 2013 10:27:01 GMT
+content-location: https://www.bitstamp.net/api/ticker/
+
+{"high": "347.93", "last": "337.50", "timestamp": "1383992812", "bid": "336.24", "volume": "47823.47503003", "low": "298.95", "ask": "337.50"}
